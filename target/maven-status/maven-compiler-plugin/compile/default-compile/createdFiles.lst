@@ -1,0 +1,10 @@
+br/com/pedrolouback/todolist/task/ITaskRepository.class
+br/com/pedrolouback/todolist/TodolistApplication.class
+br/com/pedrolouback/todolist/task/TaskModel.class
+br/com/pedrolouback/todolist/user/UserController.class
+br/com/pedrolouback/todolist/user/IUserRepository.class
+br/com/pedrolouback/todolist/utils/Utils.class
+br/com/pedrolouback/todolist/task/TaskController.class
+br/com/pedrolouback/todolist/errors/ExceptionHandlerController.class
+br/com/pedrolouback/todolist/filter/FilterTaskAuth.class
+br/com/pedrolouback/todolist/user/UserModel.class
