@@ -1,0 +1,28 @@
+POST http://localhost:8080/users
+Content-Type: application/json
+Content-Length: 67
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "name": "Pedro",
+  "username": "pedro",
+  "password": "12345"
+}
+
+<> 2023-10-10T184643.404.json
+
+###
+
+POST http://localhost:8080/users
+Content-Type: application/json/
+Content-Length: 0
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-10-10T184642.404.json
+
+###
+
